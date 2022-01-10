@@ -1,4 +1,4 @@
-# Blue-Fire-Mod-Project
+# Blue Fire Mod Project
 
 A template project for modding Blue Fire! Contains reflected headers with examples of their functions, variables and events
 
